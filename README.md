@@ -7,5 +7,5 @@ Welcome to group M's solutions. Here are some individual ones:
 
 The following link for final solutions submittd by the whole group should be activated once it is settled:
 
-* Solutions submitted by the whole group
+* [Solutions submitted by the whole group](group-submission/assignment-1-group.ipynb)
 
